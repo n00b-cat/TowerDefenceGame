@@ -1,6 +1,8 @@
-# Tower defnce game me make
-```
-i will have a cool tower defnce with some cool shit 😎
-```
+# Tower Defence Game
 > [!IMPORTANT]
-> Me do not know what to write here
+> This project is not near complete
+
+I will make a cool tower defence game with epic gameplay.
+
+Goals:
+1. Make accually gameplay so you can place towers and add waves.
